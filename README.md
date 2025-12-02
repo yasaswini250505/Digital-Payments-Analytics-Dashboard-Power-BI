@@ -56,13 +56,13 @@ This Power BI project provides:
 ## 📸 Dashboard Screenshots
 
 ### Home Dashboard
-![Dashboard](dashboard1.png) 
+![Dashboard](Dashboard1.png) 
 
 ### Insurance Dashboard
-![Dashboard](dashboard2.png) 
+![Dashboard](Dashboard2.png) 
 
 ### Loans Dashboard
-![Dashboard](dashboard3.png) 
+![Dashboard](Dashboard3.png)
 ---
 
 ## 🔧 Tools Used
